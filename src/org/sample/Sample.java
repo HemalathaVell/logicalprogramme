@@ -16,8 +16,8 @@ public class Sample {
 		sum = sum +c;
 		}
 		System.out.println(o);
-		
+		System.out.println("Hai Hema");
+		System.out.println("hai mohan");
 		}
 	}
-
 
